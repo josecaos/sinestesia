@@ -1,0 +1,10 @@
+Sinestesia {
+
+	*new {
+		^super.new;
+	}
+
+
+
+	}
+}
