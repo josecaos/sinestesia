@@ -4,7 +4,5 @@ Sinestesia {
 		^super.new;
 	}
 
-
-
-	}
+	// TODO: secuencia, salida, ...
 }
